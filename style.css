@@ -180,7 +180,7 @@ main {
 
 .card-box:hover {
     background-color: #ff900e;
-    transition: 0.5s;
+    transition: 1s ease-in-out;
     color: white;
     font-weight: 900;
 }
