@@ -162,3 +162,24 @@ main {
     color: white;
     margin-top: 10px;
 }
+
+/* card-img start 
+================= */
+.card-container {
+    display: flex;
+    line-height: 10px;
+}
+
+.card-box {
+    text-align: center;
+    margin-left: 30px;
+    width: 200px;
+    border: 1px saddlebrown solid;
+    border-radius: 10px;
+}
+
+.card-box img {
+    width: 40px;
+    padding-top: 10px;
+    line-height: 20px;
+}
