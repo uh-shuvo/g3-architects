@@ -178,6 +178,13 @@ main {
     border-radius: 10px;
 }
 
+.card-box:hover {
+    background-color: #ff900e;
+    transition: 0.5s;
+    color: white;
+    font-weight: 900;
+}
+
 .card-box img {
     width: 40px;
     padding-top: 10px;
