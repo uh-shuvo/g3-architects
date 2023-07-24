@@ -165,6 +165,20 @@ main {
 
 /* card-img start 
 ================= */
+.fact-title {
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.fact-details {
+    font-size: 16px;
+    color: #727272;
+    width: 350px;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
 .card-container {
     display: flex;
     line-height: 10px;
