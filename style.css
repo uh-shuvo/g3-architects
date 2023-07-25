@@ -229,3 +229,19 @@ main {
     margin-right: 20px;
     margin-top: 40px;
 }
+
+/* footer start 
+================ */
+footer {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin-top: 50px;
+    background-color: #FFF4E7;
+}
+
+footer>p {
+    text-align: center;
+    color: #727272;
+    font-size: 16px;
+}
